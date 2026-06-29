@@ -1,0 +1,4 @@
+python-telegram-bot==21.6
+openai>=1.30.0
+pdfplumber>=0.11.0
+pypdf>=4.3.0
